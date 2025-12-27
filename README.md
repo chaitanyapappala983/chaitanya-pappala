@@ -1,5 +1,5 @@
  Hi 👋 I'm Chaitanya
-Aspiring Data Scientist | Data Analyst | Machine Learning Enthusiast
+Aspiring Data Scientist | Data Analyst | Machine Learning Enthusiast.
 **🔧SKILLS
 - Python, SQL, Excel
 - Pandas, NumPy
